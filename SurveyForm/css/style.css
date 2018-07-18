@@ -1,0 +1,23 @@
+body {
+    background-color: #3D4252 !important;
+    color: #ffffff !important;
+}
+.container {
+    min-height: 85%;
+    width: 50%;
+    background-color: rgb(216, 216, 216);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 30px 30px;
+    margin-bottom: 50px;
+    color: #3D4252;
+}
+
+#title {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
